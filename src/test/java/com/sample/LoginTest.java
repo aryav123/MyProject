@@ -21,6 +21,8 @@ public class LoginTest {
 		a=10;
 		b=15;
 		sum=a+b;
+		System.out.println("A is:" +a);
+		System.out.println("B is:" +b);
 		System.out.println("Sum of A and B is:"+sum);
 	}
 
